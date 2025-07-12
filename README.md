@@ -10,4 +10,4 @@ d - place block
 c - swap block
 space - rotate
 
-![ezgif-89bb95031c4d1f](https://github.com/user-attachments/assets/e3714b9a-74ef-4a82-a641-86e151fd2b6e)
+![ezgif-8f2766388195e8](https://github.com/user-attachments/assets/45d77132-b386-49ca-903b-c66ab7890804)
